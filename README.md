@@ -97,7 +97,7 @@ Machine Learning Engineer | Tutor Informatika
 
 ## 📸 Screenshot
 
-![screenshot](assets/screenshot.png)
+![screenshot](assets/home.png)
 
 ---
 
