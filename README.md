@@ -8,6 +8,12 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-success?logo=xgboost&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-green?logo=open-source-initiative)
+
+
 ## 📌 Project Overview
 
 This project:
